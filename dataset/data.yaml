@@ -1,0 +1,7 @@
+names:
+  0: abeja
+  1: mosca
+  2: spider
+path: dataset
+train: images/train
+val: images/val
